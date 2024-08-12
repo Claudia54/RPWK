@@ -80,3 +80,5 @@ For rendering web pages, Jinja2 templates were used. These templates allow dynam
 
 ## Conclusion
 The application offers a robust platform for exploring detailed information about the game Elden Ring, using modern web development technologies and semantic databases. The modular structure of the code facilitates future expansions and maintenance, ensuring that the application remains useful and relevant as new data, links, or functionalities are added.
+
+### Project Grade : 17
